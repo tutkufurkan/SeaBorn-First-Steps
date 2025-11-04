@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-Latest-green.svg)](https://seaborn.pydata.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 
 ## Overview
 
