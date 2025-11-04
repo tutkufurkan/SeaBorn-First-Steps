@@ -128,6 +128,13 @@ Or run individual sections in a Jupyter notebook environment:
 jupyter notebook seaborn-first-steps.ipynb
 ```
 
+## 🎮 Interactive Demo
+
+Experience the full visualizations on Kaggle:  
+👉 [Try Seaborn Tutorial on Kaggle](https://www.kaggle.com/code/dandrandandran2093/seaborn-first-steps)
+
+*Note: Run the notebook directly on Kaggle with pre-loaded datasets and instant execution.*
+
 ## Key Insights
 
 The analysis reveals several important findings:
