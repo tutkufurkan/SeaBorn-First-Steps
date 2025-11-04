@@ -309,7 +309,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 ## References
 
 ### Course
-- **Udemy**: [Data Science by DATAI TEAM]
+- **Udemy**: Data Science by DATAI TEAM
 
 ### Tutorial
 - Kaggle Notebook: [Seaborn Tutorial for Beginners](https://www.kaggle.com/code/kanncaa1/seaborn-tutorial-for-beginners)
