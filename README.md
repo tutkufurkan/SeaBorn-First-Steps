@@ -92,17 +92,17 @@ The tutorial demonstrates 12 distinct visualization techniques:
 
 ```
 python >= 3.x
-numpy
-pandas
-seaborn
-matplotlib
+numpy>=1.21.0
+pandas>=1.3.0
+seaborn>=0.11.0
+matplotlib>=3.4.0
 ```
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/seaborn-tutorial.git
+git clone https://github.com/sekertutku/seaborn-tutorial.git
 cd seaborn-tutorial
 ```
 
@@ -124,7 +124,7 @@ python seaborn-first-steps.py
 Or run individual sections in a Jupyter notebook environment:
 
 ```bash
-jupyter notebook notebook.ipynb
+jupyter notebook seaborn-first-steps.ipynb
 ```
 
 ## Key Insights
