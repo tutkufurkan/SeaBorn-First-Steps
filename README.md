@@ -323,7 +323,7 @@ This project is licensed under the Apache License 2.0 - see the LICENSE file for
 - [NumPy Documentation](https://numpy.org/doc/)
 
 ### Related Project
-- 📊 [Plotly Data Visualization Tutorial](https://github.com/sekertutku/Plotly-First-Steps) | [Kaggle](https://www.kaggle.com/code/dandrandandran2093/plotly-first-steps)
+- 📊 **Plotly Data Visualization Tutorial** - [[Kaggle]](https://www.kaggle.com/code/dandrandandran2093/plotly-first-steps) [[GitHub]](https://github.com/sekertutku/Plotly-First-Steps)
 
 ## Acknowledgments
 
